@@ -74,4 +74,3 @@ certificates.zip
 ## 📄 License
 
 This project is free to use for personal, educational, and institutional purposes.
-
