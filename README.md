@@ -1,5 +1,6 @@
 # 🎓 Certificate Generator
 
+
 A lightweight, browser-based **Certificate Generator** that allows you to create personalized certificates for one or multiple recipients. Names are rendered onto a certificate template using HTML Canvas, converted into PDFs, and downloaded together inside a ZIP file — all without any backend.
 
 ---
